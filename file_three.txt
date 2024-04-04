@@ -1,1 +1,1 @@
-My file three
+Modified file 3
